@@ -1,0 +1,3 @@
+base_paise_per_kwh=225
+peak_multiplier_percent=120
+fixed_charge_paise=5000
