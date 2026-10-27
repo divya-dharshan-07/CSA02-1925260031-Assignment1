@@ -1,13 +1,9 @@
-/*
-Task 1: Problem analysis companion program.
-Illustrates consumption for a non-rollover example.
-*/
 #include <stdio.h>
 
 int main(void)
 {
-    unsigned int previous = 1200U;
-    unsigned int current = 1350U;
+    unsigned int previous = 1200;
+    unsigned int current = 1350;
     if (current < previous) {
         puts("Invalid readings or rollover requires special handling.");
         return 1;
