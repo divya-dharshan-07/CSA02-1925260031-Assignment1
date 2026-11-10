@@ -29,7 +29,7 @@ C Programming Assignment 1 — CO1
 - `Task12` — Smart-meter / time-of-day tariff design challenge.
 
 ## Evidence checklist
-- [ ] Replace `[Enter your full name]`.
+- [x] Student name and register number added.
 - [ ] Confirm compiler/version and exact commands from your own machine.
 - [ ] Run every program and save genuine screenshots.
 - [ ] Record observed outputs and timings; don't present sample values as measurements.
