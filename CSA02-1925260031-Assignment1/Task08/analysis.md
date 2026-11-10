@@ -20,7 +20,7 @@ The compiler converts the preprocessed C code into assembly language.
 
 Command:
 ```bash
-gcc -S main.c -o main.s
+gcc -S main.i -o main.s
 ```
 
 Output: `main.s`
