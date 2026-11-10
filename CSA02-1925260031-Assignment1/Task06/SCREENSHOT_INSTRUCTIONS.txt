@@ -1,1 +1,0 @@
-After compiling and running this task on your own computer, save a genuine screenshot of the terminal/output here as output.png. Do not create a simulated screenshot.
