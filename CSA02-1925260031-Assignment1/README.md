@@ -8,7 +8,7 @@ C Programming Assignment 1 — CO1
 
 ## How to use
 1. Open a terminal/Command Prompt in the relevant task folder.
-2. Compile the source using the command listed in that task's `README.md`.
+2. Compile the source file using the appropriate command for that task.
 3. Run the program (`./main` on Linux/macOS, `main.exe` on Windows).
 4. Compare the real output with the expected output in the report.
 5. Save a screenshot of your actual execution as `output.png` in that task folder.
