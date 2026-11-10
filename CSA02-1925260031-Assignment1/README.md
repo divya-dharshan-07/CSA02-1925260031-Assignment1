@@ -1,9 +1,9 @@
 # CSA02-1925260031-Assignment1
 C Programming Assignment 1 — CO1
 
-**Student name:** [Enter your full name]  
+**Student name:** Divya Dharshan  
 **Register number:** 1925260031  
-**Compiler:** GCC (record the version actually installed on your computer using `gcc --version`)  
+**Compiler:** GCC 16.2.0 (Rev4, built by MSYS2 project)  
 **Compile command:** `gcc -std=c11 -Wall -Wextra -Wpedantic main.c -o main` (adjust the source filename where needed)
 
 ## How to use
